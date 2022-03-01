@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Liz
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on beginner data analysis projects
+- 👋 Hi, I’m Liz, a M.S.Information Systems student expected to graduate in December of 2022.
+- 👀 I’m interested in data analytics, data mining, quantitative methods, data warehousing, business intelligence, data structures, regression analysis, data visualizations, statistical computing languages, and research data management.
+- 🌱 I’m currently looking to further my programming languages that include MySQL, R Programming Language, and Python
+- 💞️ I’m looking to collaborate on entry-level data analysis projects
 - 📫 
 
 <!---
