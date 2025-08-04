@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Liz, a M.S. in Information Systems graduate student expected to graduate in December of 2022.
-- 👀 I’m interested in data analytics, data mining, quantitative methods, data warehousing, business intelligence, data structures, regression analysis, data visualizations, statistical computing languages, and research data management.
-- 🌱 I’m currently looking to further my programming languages that include MySQL, R Programming Language, and Python
-- 💞️ I’m looking to collaborate on entry-level data analysis projects
-- 📫 
+After several years as an educator, I followed my curiosity into data—first through self-study and personal projects, then through formal training and hands-on experience. I’ve built pipelines, wrangled messy datasets, optimized workflows, and collaborated with analysts and stakeholders to turn raw information into actionable insights.
+
+What sets me apart? I know how to break down complex systems, learn quickly, and communicate clearly with technical and non-technical audiences. My background may be non-traditional, but it's my superpower: I bridge gaps between people and data.
 
 <!---
 liev2525/liev2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
