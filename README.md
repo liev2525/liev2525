@@ -15,7 +15,7 @@ All About Me:
 
 ## Tech Stack
 Python 
-![Description of the image]("C:\Users\liev2\OneDrive\Documents\MyGitHub\SQLIcon.svg") 
+![MYSQL]("C:\Users\liev2\Documents\MyGitHub\SQLIcon.svg")
 C NumPy Pandas Matplotlib Plotly seaborn TensorFlow PyTorch Keras SciPy scikit-learn Arduino Power Bi Microsoft Word Microsoft Excel Microsoft PowerPoint Canva Anaconda Jupyter Notebook Google Colab PyCharm Visual Studio Code Git Obsidian Notepad++ MarkdownChatGPT
 
 ## Connect With Me
