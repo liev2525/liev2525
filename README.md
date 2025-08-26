@@ -6,13 +6,13 @@ After several years as an educator, I followed my curiosity into data—first th
 
 What sets me apart? I know how to break down complex systems, learn quickly, and communicate clearly with technical and non-technical audiences. My background may be non-traditional, but it's my superpower: I bridge gaps between people and data.
 
-- 🌱 Currently learning: **[Machine Learning and AI]**
-- 🔭 Working on: **[I’m currently working on Global Anti-Money Laundering (GAML) Data Staging on Enterprise Microsoft Azure solution to support enterprise data needs by enabling GAML to better address future regulatory and business needs.]**
-- 🌍 Languages: **[English, Intermediate Spanish]**
+- 🌱 Currently learning: Machine Learning and AI
+- 🔭 Working on: I’m currently working on Global Anti-Money Laundering (GAML) Data Staging on Enterprise Microsoft Azure solution to support enterprise data needs by enabling GAML to better address future regulatory and business needs.
+- 🌍 Languages: English, Intermediate Spanish
 - 💡 I'm interested in Data Analysis, Automation, and Machine Learning.
 - 💬 Talk to me about Card Games, Education Technology, Healthy Eating, and Crocheting.
-- ⚡ Fun fact: **[I like to garden fruits and vegetables.]**
-- 📫 How to reach me: **[liev25@gmail.com]**
+- ⚡ Fun fact: I like to garden fruits and vegetables.
+- 📫 How to reach me: linicel25@gmail.com
 
 ## My Skills 🧠
 
