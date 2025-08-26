@@ -1,11 +1,4 @@
-## Tech Stack
-Python 
-![MYSQL]("")
-C NumPy Pandas Matplotlib Plotly seaborn TensorFlow PyTorch Keras SciPy scikit-learn Arduino Power Bi Microsoft Word Microsoft Excel Microsoft PowerPoint Canva Anaconda Jupyter Notebook Google Colab PyCharm Visual Studio Code Git Obsidian Notepad++ MarkdownChatGPT
-
-## Connect With Me
-
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Elizabeth Elizondo]! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
