@@ -1,6 +1,4 @@
-# Hi there, I'm [Elizabeth Elizondo]! 👋
-
-![Banner Image](your_banner_image_url_here)
+# Hi there, I'm Elizabeth Elizondo! 👋
 
 ## About Me 🚀
 
