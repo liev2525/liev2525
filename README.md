@@ -31,11 +31,10 @@ What sets me apart? I know how to break down complex systems, learn quickly, and
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Salaries Analysis](project_1_link)
+**Salaries Analysis** is an analysis of real-world IT salary analysis using **Databricks SQL** for cleaning and standardization and **Tableau** for visualizations. This project showcases my skills via Databricks medallion architecture using SQL. You can check out the respository [here](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis).
 
-![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
 
