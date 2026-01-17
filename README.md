@@ -31,8 +31,10 @@ What sets me apart? I know how to break down complex systems, learn quickly, and
 
 ## Featured Projects 💻
 
-### [Salaries Analysis](project_1_link)
-**Salaries Analysis** is an analysis of real-world IT salary analysis using **Databricks SQL** for cleaning and standardization and **Tableau** for visualizations. This project showcases my skills via Databricks medallion architecture using SQL. You can check out the respository [here](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis).
+### Salaries Analysis
+Overview: Salaries Analysis is an analysis of real-world IT salary analysis using **Databricks SQL** for cleaning and standardization and **Tableau** for visualizations. This project showcases my skills via Databricks medallion architecture using SQL. You can check out the respository [here](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis).
+Technology Used: Databricks SQL
+Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
