@@ -31,18 +31,16 @@ What sets me apart? I know how to break down complex systems, learn quickly, and
 
 ## Featured Projects 💻
 
-### Salaries Analysis
-Overview: Salaries Analysis is an analysis of real-world IT salary analysis using **Databricks SQL** for cleaning and standardization and **Tableau** for visualizations. This project showcases my skills via Databricks medallion architecture using SQL. You can check out the respository [here](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis).
-Technology Used: Databricks SQL
-Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Salaries Analysis](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
+- Overview: Salaries Analysis is an analysis of real-world IT salary analysis 
+- Technology Used: Databricks SQL, Tableau
+- Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### [Amazon Sales](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Amazon%20Sales%20Dataset)
+- Overview:  This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon
+- Technology Used: R Studio, Jupyter Notebook, Python, Tableau
+- Final Results: [Tableau Link to Dashboard]()
 
 
 
