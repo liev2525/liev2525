@@ -31,20 +31,20 @@ What sets me apart? I know how to break down complex systems, learn quickly, and
 
 ## Featured Projects 💻
 
-### [Salaries Analysis](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
+### [Salaries Analysis](https://github.com/liev2525/Data-Analysis-Portfolio#salaries-analysis)
 - Overview: Data Science Job Salaries between 2020-2025, the data was extracted from the Kaggle website, the data was cleaned and standardized utilizing Databrick Medallion Architecture where visualizations were created in Tableau Public.
 - Technology Used: Databricks SQL, Tableau
 - Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-### [Amazon Sales](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Amazon%20Sales%20Dataset)
+### [Amazon Sales](https://github.com/liev2525/Data-Analysis-Portfolio#amazon-sales-analysis)
 - Overview:  This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon
 - Technology Used: R Studio, Jupyter Notebook, Python, Tableau
-- Final Results: [Tableau Link to Dashboard]()
+- Final Results: [Tableau Link to Dashboard](UPDATE LINK)
 
-### [Cave Shippers LLC](https)
+### [Cave Shippers LLC](https://github.com/liev2525/Data-Analysis-Portfolio#cave-llc-shippers)
 - Overview:  
 - Technology Used: MySQL, Tableau
-- Final Results: [Tableau Link to Dashboard]()
+- Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/CaveLLCForecastAnalysis/10YrForecastDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
