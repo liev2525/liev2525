@@ -36,7 +36,7 @@ What sets me apart? I know how to break down complex systems, learn quickly, and
 - Technology Used: Databricks SQL, Tableau
 - Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### [Cave Shippers LLC](https://github.com/liev2525/Data-Analysis-Portfolio#cave-llc-shippers)
+### [Cave Shippers LLC](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
 - Overview:  
 - Technology Used: MySQL, Tableau
 - Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/CaveLLCForecastAnalysis/10YrForecastDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
