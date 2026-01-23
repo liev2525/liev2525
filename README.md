@@ -31,7 +31,7 @@ What sets me apart? I know how to break down complex systems, learn quickly, and
 
 ## Featured Projects 💻
 
-### [Salaries Analysis](https://github.com/liev2525/Data-Analysis-Portfolio#salaries-analysis)
+### [Salaries Analysis](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
 - Overview: Data Science Job Salaries between 2020-2025, the data was extracted from the Kaggle website, the data was cleaned and standardized utilizing Databrick Medallion Architecture where visualizations were created in Tableau Public.
 - Technology Used: Databricks SQL, Tableau
 - Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
