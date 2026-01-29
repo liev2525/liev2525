@@ -37,7 +37,7 @@ What sets me apart? I know how to break down complex systems, learn quickly, and
 - Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### [Cave Shippers LLC](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
-- Overview:  
+- Overview: This dataset and analysis were completed as part of a graduate-level capstone project for the master’s program in Information Science 2023. In collaboration with a cohort, I helped to develop a mock company—Cave Shippers LLC—where my responsibility was to conduct an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various material types.  
 - Technology Used: MySQL, Tableau
 - Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/CaveLLCForecastAnalysis/10YrForecastDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
