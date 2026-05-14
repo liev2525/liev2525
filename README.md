@@ -40,17 +40,9 @@ Beyond analysis, I enjoy working with real-world datasets—profiling messy data
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+## Projects
+### [Data Analysis Projects](https://github.com/liev2525/Data-Analysis-Projects)
+### [Data Engineering Projects](https://github.com/liev2525/Data-Engineering-Projects)
 
-## Featured Projects 💻
-
-### [Salaries Analysis](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
-- Overview: Data Science Job Salaries between 2020-2025, the data was extracted from the Kaggle website, the data was cleaned and standardized utilizing Databrick Medallion Architecture where visualizations were created in Tableau Public.
-- Technology Used: Databricks SQL, Tableau
-- Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-### [Cave Shippers LLC](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
-- Overview: This dataset and analysis were completed as part of a graduate-level capstone project for the master’s program in Information Science 2023. In collaboration with a cohort, I helped to develop a mock company—Cave Shippers LLC—where my responsibility was to conduct an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various material types.  
-- Technology Used: MySQL, Tableau
-- Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/CaveLLCForecastAnalysis/10YrForecastDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
