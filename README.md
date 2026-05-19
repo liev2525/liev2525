@@ -52,7 +52,7 @@ Beyond analysis, I enjoy working with real-world datasets—profiling messy data
 
 ## Projects
 ### [Data Analysis Projects](https://github.com/liev2525/Data-Analysis-Projects)
-### [Data Engineering Projects](https://github.com/liev2525/Data-Engineering-Projects)
+### [Data Engineering Projects](https://github.com/liev2525/Data-Engineering-Projects/blob/main/index.md)
 
 
 
